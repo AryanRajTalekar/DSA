@@ -1,0 +1,6 @@
+public static void main(String [] args){
+ // int arr[] = new int[n];
+        int arr[] = int[] arr = {4, 3, 6, 2, 1, 1};
+        
+        
+    }
